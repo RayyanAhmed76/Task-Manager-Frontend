@@ -1,4 +1,4 @@
-# Team Task Manager (Full Stack Assessment)
+# Team Task Manager 
 
 Simple, clean Node.js + React stack implementing teams, memberships, and tasks with secure session auth.
 
